@@ -1,5 +1,3 @@
-pronosticossaberpro
-
 Elaborado por: 
 
 Nombre: Danil Velez Osorio Cedula: 1037667652 Programa: Ingenieria Industrial
