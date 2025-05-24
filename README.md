@@ -1,10 +1,6 @@
 # Pronosticossaberpro
 Elaborado por: 
 
-Nombre: Danil Velez Osorio  
-Cedula: 1037667652  
-Programa: Ingenieria Industrial
+Nombre: Danil Velez Osorio - 1037667652 - Ing. Industrial
 
-Nombre: Luisa Fernanda Velasquez Martinez  
-Cedula: 1152223281   
-Programa: Ingenieria Civil
+Nombre: Luisa Fernanda Velasquez Martinez - 1152223281 - Ing. Civil
