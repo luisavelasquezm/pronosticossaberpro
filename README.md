@@ -1,4 +1,4 @@
-# Pronosticosaberpro
+# Pronosticossaberpro
 Elaborado por: 
 
 Nombre: Daniel Velez Osorio - 1037667652 - Ing. Industrial
